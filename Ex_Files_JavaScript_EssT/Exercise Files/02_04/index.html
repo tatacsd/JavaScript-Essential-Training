@@ -5,15 +5,36 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>An empty page</title>
+    <script src="script.js" defer></script>
 </head>
 
 <body>
 
 </body>
 
-<script>
-    var date = new Date();
-    document.body.innerHTML = "<h1>Today is: " + date + "</h1>";
-</script>
+
 
 </html>
+<!--
+How to create a js file
+Call a external file
+In the head(to run before the html) and in the body(to render after)
+JavaScript render "blocking" 
+http/2 partially solves the problem(download in parallel)
+
+html Loading: right away (render blocking)
+    html parsing: -----           --------
+    js downloaded:     ------
+    js execution             ----
+
+html Loading: Asynchronous
+    html parsing: ---------     --------
+    js downloaded:   ------
+    js execution           -----
+
+
+ html Loading: deferred
+    html parsing: ---------------
+    js downloaded:   ------
+    js execution                 ---  
+-->
