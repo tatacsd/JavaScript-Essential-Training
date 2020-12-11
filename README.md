@@ -8,5 +8,5 @@ by
 
 
 <a href="https://www.linkedin.com/in/mortenrandhendriksen/?trk=lil_course" target="_blank">Morten Rand-Hendriksen</a><br>
-Web Designer and Developer
-source: https://www.linkedin.com/learning/javascript-essential-training-3/how-to-use-the-exercise-files?u=2105105
+Web Designer and Developer<br>
+<a href="https://www.linkedin.com/learning/javascript-essential-training-3/how-to-use-the-exercise-files?u=2105105" target="_blank">LinkedIn Course Link</a><br> 
