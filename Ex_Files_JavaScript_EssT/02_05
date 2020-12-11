@@ -1,0 +1,11 @@
+Tips for writing a good js
+1. Js is case sensitive
+2. Use camelCase
+  variables start with lowercase letter
+  object and classes start with uppercase leter
+  constants are all-caps
+3.White space metter (to humans)
+4. End each statement with a semicolon (controversial)
+5. use comments liberally
+  // line
+  /**/ multiple line
